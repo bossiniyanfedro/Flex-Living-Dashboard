@@ -1,0 +1,123 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 7453,
+      "listingId": "n1-loft",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": 4.9,
+      "channel": "Airbnb",
+      "publicReview": "Shane and family are wonderful! Would definitely host again :)",
+      "privateReview": "Very communicative group and they left the apartment spotless.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "respect_house_rules", "rating": 10 }
+      ],
+      "submittedAt": "2024-08-21T22:45:14Z",
+      "guestName": "Shane Finkelstein",
+      "nightsStayed": 5
+    },
+    {
+      "id": 7454,
+      "listingId": "n1-loft",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4.7,
+      "channel": "Airbnb",
+      "publicReview": "Loved the views over Hoxton Square and the curated art pieces.",
+      "privateReview": "Only suggestion is clearer recycling guidance.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 10 },
+        { "category": "location", "rating": 10 },
+        { "category": "value", "rating": 8 }
+      ],
+      "submittedAt": "2024-09-12T18:32:14Z",
+      "guestName": "Laura Chen",
+      "nightsStayed": 4
+    },
+    {
+      "id": 8210,
+      "listingId": "canary-wharf-panorama",
+      "listingName": "Canary Wharf Panorama - Executive Suite",
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4.2,
+      "channel": "Booking.com",
+      "publicReview": "Spectacular skyline and fast Wi-Fi, but the dishwasher was out for two nights.",
+      "privateReview": "Engineer came on day 3 which helped.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 7 },
+        { "category": "amenities", "rating": 6 },
+        { "category": "location", "rating": 9 }
+      ],
+      "submittedAt": "2024-07-05T13:10:00Z",
+      "guestName": "Marcus Reed",
+      "nightsStayed": 7
+    },
+    {
+      "id": 8211,
+      "listingId": "canary-wharf-panorama",
+      "listingName": "Canary Wharf Panorama - Executive Suite",
+      "type": "host-to-guest",
+      "status": "published",
+      "rating": null,
+      "channel": "Booking.com",
+      "publicReview": "Marcus was easy to host and respected quiet hours.",
+      "privateReview": "Left polite note about dishwasher we already escalated.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 9 }
+      ],
+      "submittedAt": "2024-07-06T11:02:00Z",
+      "guestName": "Flex Living Team",
+      "nightsStayed": 0
+    },
+    {
+      "id": 9102,
+      "listingId": "southbank-mezzanine",
+      "listingName": "Southbank Mezzanine - Design Residence",
+      "type": "guest-to-host",
+      "status": "pending",
+      "rating": 3.9,
+      "channel": "Direct",
+      "publicReview": "Great interior styling but we had trouble with late-night self check-in.",
+      "privateReview": "Keybox instructions referenced an old entrance.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 6 },
+        { "category": "check_in", "rating": 5 },
+        { "category": "location", "rating": 9 }
+      ],
+      "submittedAt": "2024-10-18T21:55:10Z",
+      "guestName": "Patricia Gomez",
+      "nightsStayed": 3
+    },
+    {
+      "id": 9103,
+      "listingId": "southbank-mezzanine",
+      "listingName": "Southbank Mezzanine - Design Residence",
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4.8,
+      "channel": "Airbnb",
+      "publicReview": "Perfect base to explore galleries. Flex team delivered crib within 20 minutes.",
+      "privateReview": "Would stay again next quarter.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 },
+        { "category": "amenities", "rating": 9 },
+        { "category": "location", "rating": 10 }
+      ],
+      "submittedAt": "2024-11-02T10:14:10Z",
+      "guestName": "Delphine Moreau",
+      "nightsStayed": 6
+    }
+  ]
+}
+
